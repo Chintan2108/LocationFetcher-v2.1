@@ -1,0 +1,11 @@
+Consumer Key (API Key)
+fetOZ1RoFZkb5YVNlD4Rhfbbv
+
+Consumer Secret (API Secret)
+gxKXWqDHNqoWAijoOIIJ5Bu08wHhhOhk1Oqsur2W7MgikSKhE6
+
+Access Token
+2180011045-RYDPjdulr7nQfjdeSyxoIQCeLMUfqv2KYwjG7h8
+
+Access Token Secret
+LRydocUPSL4an2lHcGBBJLi2lI5FkaEx9gvS23N1Li5M9
