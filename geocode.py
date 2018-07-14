@@ -10,7 +10,7 @@ import pandas as pd
 
 GEOCODE_URL = 'https://maps.googleapis.com/maps/api/geocode'
 df = pd.read_csv('prod.csv')
-api_key = "AIzaSyBSRBZ5TxNXO_7HnMoEK0DrhfDWJdiG-gk"
+api_key = ""
 coordinates = {'lat':[], 'lng':[]}
 
 def generateGeocodes():
